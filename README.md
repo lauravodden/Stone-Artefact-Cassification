@@ -1,7 +1,6 @@
 # Predicting stone artefact classification: A case study from the Ban Rai Area, Thailand
 Laura Vodden
 
-# Summary
 Stone artefacts comprise a large proportion of objects recovered from archaeological sites,
 owing to their durability and resistance to deterioration (Clarkson and O’Connor, 2007).
 They are valuable to archaeologists, because they provide an excellent record of human
